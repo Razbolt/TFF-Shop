@@ -11,6 +11,7 @@ import AdminProducts from "./pages/admin/Products";
 import UserOrders from "./pages/user/Order";
 import UserProfile from "./pages/user/Profile";
 import AdminProductUpdate from "./pages/admin/ProductUpdate";
+import Shop from "./pages/Shop"
 
 
 
@@ -40,6 +41,7 @@ export default function App() {
     <Toaster/>
     <Routes>
     <Route path="/" element={<Home />} />
+    <Route path="/shop" element={<Shop />} />
     <Route path="/login" element={<Login />} />
     <Route path="/register" element={<Register />} />
     

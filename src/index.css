@@ -23,6 +23,10 @@
   border-radius: 12px solid #0d6efd;
 }
 
+.ant-checkbox-wrapper:first-of-type 
+{
+  margin-left: 8px;
+}
 /* jumbotron color animation css */
 .jumbotron {
   width: 30wh;

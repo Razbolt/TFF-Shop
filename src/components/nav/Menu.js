@@ -21,6 +21,10 @@ export default function Menu ()
             <NavLink className="nav-link " aria-current="page" to="/">Home</NavLink>
         </li>
 
+        <li className="nav-item">
+            <NavLink className="nav-link " aria-current="page" to="/shop">Shop</NavLink>
+        </li>
+
         
                 {/* condition ? true : false*/}
         {!auth?.user ?  

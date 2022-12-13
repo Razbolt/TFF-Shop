@@ -2,7 +2,7 @@
 - This project can be run in the localhost:300 and also in 
  https://tff-shop.herokuapp.com/
 
-- This project is basicly e commerce apllication that teams can create and sell their products to fottball lovers in this web application
+- This project is basicaly an e-commerce apllication for  teams and user that can teams can sell their products and people can buy their products for they favorite team.
 
 # User documentation:
 ## Instalation

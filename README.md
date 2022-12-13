@@ -1,8 +1,8 @@
 # TFF-Shop
-#This project can be run in the localhost:300 and also in 
-#https://tff-shop.herokuapp.com/
+- This project can be run in the localhost:300 and also in 
+ https://tff-shop.herokuapp.com/
 
-#This project is basicly e commerce apllication that teams can create and sell their products to fottball lovers in this web application
+- This project is basicly e commerce apllication that teams can create and sell their products to fottball lovers in this web application
 
 # User documentation:
 in order to install this project first you need to instal some npm as npm install <package_name>

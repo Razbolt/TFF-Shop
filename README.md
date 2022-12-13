@@ -5,9 +5,12 @@
 - This project is basicly e commerce apllication that teams can create and sell their products to fottball lovers in this web application
 
 # User documentation:
+## Instalation
 in order to install this project first you need to instal some npm as npm install <package_name>
  which first 'npm i start ' to build our project and for server side 'npm i nodemon'
+ ## Run the Software
  to run this project 'npm start command must be type in terminal, for the server side run proejct with 'nodemon index.js'
+ ## Bug Reports and any bugs
  for any bug, you can send it to this repository with to me, but currently no bugs found in this application
  
  

@@ -4,7 +4,7 @@
 
 #This project is basicly e commerce apllication that teams can create and sell their products to fottball lovers in this web application
 
-#User documentation:
+# User documentation:
 in order to install this project first you need to instal some npm as npm install <package_name>
  which first 'npm i start ' to build our project and for server side 'npm i nodemon'
  to run this project 'npm start command must be type in terminal, for the server side run proejct with 'nodemon index.js'
@@ -12,7 +12,14 @@ in order to install this project first you need to instal some npm as npm instal
  
  
  #Developer Documentation
- 
+ We have a client and server folders which basically client side is front-end and server side is for backend,
+ mostly thing are working in master branch but all of them contained from 'erdem' branch 
+ The layout of this project is in client folder there are 'public' and 'src' folders, 'public' folder contains the React APP user interface that contains react photos and logos within them.
+ in 'src' folder there are 'component','context, 'images','pages' and also App.js and index.js.
+ In index.js is the main file that react app working, we use App.js function in index.js to build our client side. For App js file we use this in order to build some routers within this apllication to router our button to go other directories in application.
+ In pages folder containts pages that for authentication, users and admin also for all users can acces Home page and Shop within these. With authentication page, we check to route to acces either  admin page or user pages.
+ In context we mainly provide a authentication for login which is a usser acces control in so that users can not acces to admin page with tokenization.
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# TFF-Shop
+#This project can be run in the localhost:300 and also in 
+#https://tff-shop.herokuapp.com/
+
+#This project is basicly e commerce apllication that teams can create and sell their products to fottball lovers in this web application
+
+#User documentation:
+in order to install this project first you need to instal some npm as npm install <package_name>
+ which first 'npm i start ' to build our project and for server side 'npm i nodemon'
+ to run this project 'npm start command must be type in terminal, for the server side run proejct with 'nodemon index.js'
+ for any bug, you can send it to this repository with to me, but currently no bugs found in this application
+ 
+ 
+ #Developer Documentation
+ 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -26,7 +26,7 @@ export default function Menu ()
         </li>
 
         
-                {/* condition ? true : false*/}
+                {/* condition yess ? true : false*/}
         {!auth?.user ?  
         (
                     <>

@@ -11,7 +11,7 @@ in order to install this project first you need to instal some npm as npm instal
  for any bug, you can send it to this repository with to me, but currently no bugs found in this application
  
  
- #Developer Documentation
+ # Developer Documentation
  We have a client and server folders which basically client side is front-end and server side is for backend,
  mostly thing are working in master branch but all of them contained from 'erdem' branch 
  The layout of this project is in client folder there are 'public' and 'src' folders, 'public' folder contains the React APP user interface that contains react photos and logos within them.

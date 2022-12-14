@@ -11,7 +11,7 @@ in order to install this project first you need to instal some npm as  ``` npm i
  ## Run the Software
  to run this project ``` npm start ``` command must be type in terminal, for the server side run project with ``` nodemon index.js ```
  ## Bug Reports and any bugs
- for any bug, you can send in ``` Issues ``` button the left side corner there is a Issue folder for bugs , but currently no bugs found in this application
+ for any bug, you can send it to this repository with to me, but currently no bugs found in this application
  
  
  # Developer Documentation
